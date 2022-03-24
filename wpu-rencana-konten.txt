@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   * ES6
   * Framework JS
     ^ View
+    ^ React
 - Fundamental Struktur Data  
 - PHP Framework
     ^ Laravel
