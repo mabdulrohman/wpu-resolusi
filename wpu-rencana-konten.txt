@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 - Javascriptc
   * ES6
   * Framework JS
-- Fundamental Struktur Data  
+    ^ ANgular
+    ^ React
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
